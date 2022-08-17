@@ -1,0 +1,5 @@
+com\ironhack\demo\repository\StudentRepository.class
+com\ironhack\demo\model\Student.class
+com\ironhack\demo\service\StudentService.class
+com\ironhack\demo\controller\StudentController.class
+com\ironhack\demo\DemoApplication.class
